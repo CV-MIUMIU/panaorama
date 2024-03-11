@@ -1,7 +1,15 @@
+## What's New: 🎉 
+ * [GUI Release] December 2023 <br>
+[Youtube Video Demo](https://www.youtube.com/watch?v=gEuBC6H23GY)
+[Bilibili Video Demo](https://www.bilibili.com/video/BV1iu4y1u73x/)
+* warped: Equirectangular Projection
+* 特征点: SuperPoint+SIFT;
+*  匹配:NN+superglue;
+*  Seamline fusion: dynamic seamline and average seamline
+
 # panaorama
 双鱼眼全景拼接
-
-### 代码链接:https://mianbaoduo.com/o/bread/YZyZlJY=
+### 代码链接: https://mbd.pub/o/bread/YZyZlJY=
 
 **是什么:**
 大家都知道VR,能够看到360度全景图像,即每帧图像记录了360度的景色。而工业界是怎样拍摄这样的图像的呢?目前博主了解的主要有两种做法:
